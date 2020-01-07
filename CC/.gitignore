@@ -1,0 +1,13 @@
+MeuRepository/obj
+Banco.Domain/obj
+Banco/obj/
+.vs/
+MeuRepository/.vs/
+Banco.Domain/.vs/
+MeuRepository/.vs/
+Banco/bin/
+Banco/bin/
+Banco.Domain/bin/
+MeuRepository/bin/
+Banco/appsettings.prod.json
+Banco/appsettings.Development.json
